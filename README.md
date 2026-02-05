@@ -1,9 +1,10 @@
 # Jacqueline Valois
-Analista de Desenvolvimento de Sistemas
-Profissional em Analíse de Desenvolvimento de Sistemas que busca trabalhar em equipe, trocar ideias e construir soluções que realmente façam sentido para o negócio. Atuando com desenvolvimento Front-end, gestão e análise de dados, criando interfaces e dashboards que apoiam a tomada de decisão. Cursando Pós-graduação em Engenharia de Software e Ciência de Dados, busco constantemente evoluir tecnicamente e aplicar boas práticas para desenvolver soluções eficientes, escaláveis e orientadas a dados.
+### Link:
+https://jacqueval.github.io/meu-curriculo/
 
+#### Contato
 📞 (65) 9 9811-9675
 ✉️ jackvalois@gmail.com
-🔗 LinkedIn
-🔗 GitHub
+🔗 LinkedIn: https://www.linkedin.com/in/jacquelinevalois/
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/2e3defab-d65d-45fd-a627-3f8209fa9b65" />
 Disponível para viagens
