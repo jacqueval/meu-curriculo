@@ -1,0 +1,144 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f6f8;
+}
+
+.container {
+  padding: 40px;
+}
+
+
+.header {
+  background: linear-gradient(135deg, #1e293b, #0f172a);
+  color: white;
+  padding: 30px;
+  border-radius: 12px;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 2.2rem;
+}
+
+.header h2 {
+  font-weight: 400;
+  margin-top: 5px;
+  color: #cbd5f5;
+}
+
+.header-info {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-top: 15px;
+}
+
+.header a {
+  color: #93c5fd;
+  text-decoration: none;
+}
+
+.availability {
+  margin-top: 10px;
+  font-style: italic;
+  color: #e5e7eb;
+}
+
+section {
+  margin-top: 35px;
+}
+
+h3 {
+  border-left: 4px solid #2563eb;
+  padding-left: 10px;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 15px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.05);
+}
+
+.job-header {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+.tech span,
+.skills span {
+  display: inline-block;
+  background: #2563eb;
+  color: white;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  margin: 5px 5px 0 0;
+}
+
+.toggle {
+  background: #1e293b;
+  color: white;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+body.dark {
+  background: #020617;
+  color: #e5e7eb;
+}
+
+body.dark header {
+  background: #020617;
+}
+
+body.dark .card {
+  background: #020617;
+  border: 1px solid #1e293b;
+}
+
+body.dark .skill {
+  background: #1d4ed8;
+}
+
+.cert-buttons {
+  display: flex;
+  gap: 12px;
+  margin-top: 16px;
+  flex-wrap: wrap;
+}
+
+.cert-buttons button {
+  padding: 8px 14px;
+  border-radius: 8px;
+  border: none;
+  background: #2563eb;
+  color: white;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.cert-buttons button:hover {
+  background: #1e40af;
+}
+
+.certificate-viewer {
+  margin-top: 24px;
+}
+
+.external-link {
+  display: inline-block;
+  margin-top: 12px;
+  color: #2563eb;
+  font-weight: 600;
+}
